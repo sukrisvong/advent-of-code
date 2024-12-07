@@ -1,5 +1,5 @@
 # Purpose
-This is just a place for me to document my progress on advent-of-code 2024. This repository is divided into 2 folders.
+This is just a place for me to document my progress on https://adventofcode.com/2024. This repository is divided into 2 folders.
 
 ## working_code
 This is where I save my solutions as they were when I solved the problem (after day7. Before day7 I did a little bit of code cleanup). It is messy and can give insight into how I solve problems.
