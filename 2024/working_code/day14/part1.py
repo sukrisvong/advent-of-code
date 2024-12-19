@@ -30,7 +30,7 @@ class Robot:
     def __repr__(self):
         return f'p=({self.start_position.x},{self.start_position.y}) v=({self.velocity.x},{self.velocity.y})'
 
-LOCATION_REGEX = "p=(\-?[0-9]*),(\-?[0-9]*) v=(\-?[0-9]*),(\-?[0-9]*)"
+LOCATION_REGEX = "p=(\\-?[0-9]*),(\\-?[0-9]*) v=(\\-?[0-9]*),(\\-?[0-9]*)"
 
 def get_robots():
     ACTUAL_FILE = 'input.txt'
